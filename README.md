@@ -2,7 +2,7 @@
 The project dislays recent 25 commits of nodeJS respository.
 
 The [backend work](https://github.com/hammad-gujar/gitCommitsHistory/tree/commitHistory_backEndWork) is developed on Laravel framework. Below are the details.
-- A scheduler job which prediocally runs and sync the commits history in database.
+- A scheduler job which periodically runs and sync the commits history in database.
 - A model to store the data related to history of the commits.
 - Model also contains the functions consist of REST call to github which sync the data in database.
 - Model also has function which return the data to frontend.
