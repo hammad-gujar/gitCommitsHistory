@@ -1,0 +1,65 @@
+commitHistoryBackend/node_modules
+commitHistoryBackend/public/hot
+commitHistoryBackend/public/storage
+commitHistoryBackend/storage/*.key
+commitHistoryBackend/vendor
+commitHistoryBackend/.env
+commitHistoryBackend/.env.backup
+commitHistoryBackend/.phpunit.result.cache
+commitHistoryBackend/docker-compose.override.yml
+commitHistoryBackend/Homestead.json
+commitHistoryBackend/Homestead.yaml
+commitHistoryBackend/npm-debug.log
+commitHistoryBackend/yarn-error.log
+commitHistoryBackend/.idea
+commitHistoryBackend/.vscode
+
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+commitHistoryFrontend/dist
+commitHistoryFrontend/tmp
+commitHistoryFrontend/out-tsc
+# Only exists if Bazel was run
+commitHistoryFrontend/bazel-out
+
+# dependencies
+commitHistoryFrontend/node_modules
+
+# profiling files
+commitHistoryFrontend/chrome-profiler-events*.json
+commitHistoryFrontend/speed-measure-plugin*.json
+
+# IDEs and editors
+commitHistoryFrontend/.idea
+commitHistoryFrontend/.project
+commitHistoryFrontend/.classpath
+commitHistoryFrontend/.c9/
+commitHistoryFrontend/*.launch
+commitHistoryFrontend/.settings/
+commitHistoryFrontend/*.sublime-workspace
+
+# IDE - VSCode
+commitHistoryFrontend/.vscode/*
+commitHistoryFrontend/!.vscode/settings.json
+commitHistoryFrontend/!.vscode/tasks.json
+commitHistoryFrontend/!.vscode/launch.json
+commitHistoryFrontend/!.vscode/extensions.json
+commitHistoryFrontend/.history/*
+
+# misc
+commitHistoryFrontend/.sass-cache
+commitHistoryFrontend/connect.lock
+commitHistoryFrontend/coverage
+commitHistoryFrontend/libpeerconnection.log
+commitHistoryFrontend/npm-debug.log
+commitHistoryFrontend/yarn-error.log
+commitHistoryFrontend/testem.log
+commitHistoryFrontend/typings
+
+# System Files
+commitHistoryFrontend/.DS_Store
+commitHistoryFrontend/Thumbs.db
+
